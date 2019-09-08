@@ -31,7 +31,7 @@ library(zeallot) # Çoklu değişken atama için.
 is_model = T
 ```
 
-### R studio’da keras yüklenmesi {#1e0d .graf .graf--h3 .graf-after--pre name="1e0d"}
+### R studio’da keras yüklenmesi
 
 Bu çalışmada cifar-10 veri setini kullanacağız.
 
