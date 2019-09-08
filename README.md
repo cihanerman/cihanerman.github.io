@@ -1,2 +1,1 @@
-# cihanerman.github.com
-Kişisel Blog
+# Kişiel Blog
