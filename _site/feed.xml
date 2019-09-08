@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ana Sayfa</title>
+    <title>Blog</title>
     <description>Cihan Erman</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>R ve Keras’ın Bachatası</title>
+        <description>
+          
+          R Dilinde Keras Kullanımı Herkese merhaba, bu çalışmada/yazımda olabildiğince basit bir şekilde R dilinde keras ile cnn modeli oluşturmaya çalışacağız. Hadi başlayalım. Kaynak Not: Bu yazı derin öğrenmeyi anlatan bir yazı değildir. Keras kütüphanesini R dilinde nasıl kullanılacağına dağir bir giriş yazısıdır. Bu sebepten bütün kod tek tek açıklanmamıştır. Derin...
+        </description>
+        <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/r-ve-keras%C4%B1n-bachatas%C4%B1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/r-ve-keras%C4%B1n-bachatas%C4%B1/</guid>
+      </item>
+    
+      <item>
+        <title>Python’da Veri Manipülasyonuna R Gücü Katmak</title>
+        <description>
+          
+          Python’da Veri Manipülasyonuna R Gücü Katmak Herkese merhaba. Yoğunluktan dolayı uzun zamandır yazı yazamıyordum ve bayram tatilini değerlendirirken bir yazı kaleme almak istedim. Yaklaşık bir buçuk yıl önce ömründe kod görmemiş biriydim. Bir yazılımcı olmayı başardım ve daha iyi bir yazılımcı olmak için çalışıyorum. Yazılım dünyasının şuanki en üst noktalarından biri...
+        </description>
+        <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/pythonda-veri-manipulasyonuna-r-g%C3%BCc%C3%BC-katmak/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/pythonda-veri-manipulasyonuna-r-g%C3%BCc%C3%BC-katmak/</guid>
+      </item>
+    
+      <item>
+        <title>Django UpdateView kullanımı</title>
+        <description>
+          
+          Herkese merhaba. Bu yazı bir önceki yazımın devamıdır, bir önceki yazımda CreateView’i anlatmaya çalışmıştım. Kaynak olarak djangoproject sitesi kullanıyorum.\ Hadi başlayalım. Bi önceki yazımızda ModelForm’dan inherit ettiğimiz formumuzu CreatView ile çok kolay ve kısa bir şekilde veri tabanına kaydetmiştik. Şimdi kaldığımız yerden bu kaydettiğimiz Post’u UpdateView kullanarak aynı kolaylıkla poslarımızı...
+        </description>
+        <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/django-updateview-kullan%C4%B1m%C4%B1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/django-updateview-kullan%C4%B1m%C4%B1/</guid>
+      </item>
+    
+      <item>
+        <title>Django’da CreateView kullanımı</title>
+        <description>
+          
+          Herkese merhaba. Bu yazımda django’da ki CreateView’i anlatmaya çalışacağım. CreateView django’da ki generik ViewClass’lar dan biri ve işleri çok kolaylaştırıyor. Kayank olarak djangoproject sitesinden faydalandım. Hadi başlayalım. Öncelikle models.py dosyası içerisinde modelimizi oluşturalım. class Post(models.Model): title = models.CharField() text = models.TextField() İki property’i olan Post ismindeki modelimizi tanımladık. Şimdi forms.py...
+        </description>
+        <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/django-createview-kullan%C4%B1m%C4%B1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/django-createview-kullan%C4%B1m%C4%B1/</guid>
+      </item>
+    
+      <item>
+        <title>Django FormView kullanımı</title>
+        <description>
+          
+          Herkese merhaba. Bu yazımda django’da ki FormView’in nasıl kullanıldığını anlatmaya çalışacağım. Kaynak olarak https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-editing/ kulladım. Not: Bu yazı giriş seviyesinde django bildiğinizi kabul eder. Önce models.py içinde modelimizi oluşturalım. from django.db import modelsclass Post(models.Model): title = models.CharField() context = models.TextField() Şimdide forms.py dosyamızın içinde formumuzu oluşturalım. from django import forms...
+        </description>
+        <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/django-formview-kullan%C4%B1m%C4%B1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/django-formview-kullan%C4%B1m%C4%B1/</guid>
+      </item>
+    
+      <item>
+        <title>Django Listview kullanımı</title>
+        <description>
+          
+          Bu yazımda django’da ki generic view konusundan listview’ı anlatmaya çalışacağım. Kaynak olarak https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-display/ kullandım. Bu yazı giriş seviyesinde django bildiğinizi var sayar. Başlayalım. Önce uygulamamız içindeki model.py dosyasında modelemizi tanımlayalım. from django.db import models class Post(models.Model): yazar = models.ForeignKey() baslik = models.CharField() icerik = models.TextField() İlk satırda modellerimizin kalıtım alacağı...
+        </description>
+        <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/django-listview-kullan%C4%B1m%C4%B1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/django-listview-kullan%C4%B1m%C4%B1/</guid>
+      </item>
+    
+      <item>
+        <title>Başlangıç</title>
+        <description>
+          
+          İnsanlar hayatları boyunca iyi ve ya kötü, bir çok olayala karşılaşırlar. Hayat’ın, İnsanı nerelere sürükleyeceği belli olmaya bilir. Bu sözlerim kaderci bir yaklaşım olarak algılanmamalı. Evrenin hamuru kaos ve keşmekeşlik yoğrulmuşken, hayatın böyle olması doğal. Teknik lise makina ve ondan sonra Otomotiv öğretmenliği okumuş biriyim. Ülkemizin durumunu burada yeniden anlatmayı...
+        </description>
+        <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/baslangic/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/baslangic/</guid>
+      </item>
     
       <item>
         <title>Test markdown</title>
