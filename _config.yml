@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  # rss: true
+  rss: true
   email: "cihan.erman@outlook.com"
   github: cihanerman
   twitter: cihanerman_
@@ -103,7 +103,7 @@ url-pretty: "cihanerman.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-147964244-1"
 
 # Google Tag Manager ID
 #gtm: ""
