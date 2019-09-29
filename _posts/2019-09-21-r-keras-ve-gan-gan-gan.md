@@ -3,6 +3,7 @@ title: "R, Keras ve Gan Gan Gan"
 subtitle: "R'da keras kullanarak gan modeli oluşturma"
 output: md_document
 author: "Cihan Erman"
+tags: [R, Keras, Gans, machine learning, deep learning, ai]
 date: '21 Eylül 2019'
 ---
 
