@@ -47,7 +47,7 @@ Performans ve bellek kullanımı azaltmak istiyorsanız, django da belki her zam
 Tabi daha az bellek kullanacağınız için kaynaklarınız daha verimli kullanmış olursunuz.
 
 ## Tips and tricks bir şeyler diyordun ?
-Django da bir sorgunu sonuna `.iterator()` derseniz, örneğin `Books.objects.all().iterator()` gibi. Bir queryset deği bir genarator elde edersiniz.
+Django da bir sorgunu sonuna `.iterator()` derseniz, örneğin `Books.objects.all().iterator()` gibi. Bir queryset değil bir genarator elde edersiniz.
 
 ```python
 for book in Books.objects.all().iterator():
