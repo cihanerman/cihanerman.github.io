@@ -3,7 +3,7 @@ title: "Büyük oyunu gör. Django'da yaratıcılar ve yineleyiciler."
 subtitle: "Django tips and tricks, #1"
 author: "Cihan Erman"
 tags: [python, django, generators, iterators, tips and tricks]
-date: '26 Ocak 2019'
+date: '26 Ocak 2020'
 layout: post
 ---
 
