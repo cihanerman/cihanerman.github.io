@@ -1,6 +1,6 @@
 ---
 title: "Athos, Porthos ve Aramis"
-subtitle: "Python'da map, filter, reduce, #2"
+subtitle: "Python'da map, filter, reduce. Django tips and trick #2"
 author: "Cihan Erman"
 tags: [python, django, map, filter, reduce, fonksiyonel programlama, tips and tricks]
 date: '16 Şubat 2020'
