@@ -7,6 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Django'da sorgu optimizastonu #2</title>
+        <description>
+          Values ve values_list kullanımı. Django tips and trick #4 - 
+          Başlamadan Önce Herkese merhaba. Django’da sorgularımızı optimize etme serisini ikinci yazısındayız. Serinin bir önceki yazısı ile benzer bir yazı olacak. Mantık olarak yine ihtiyacımız kadarını alacağız, farklı olarak bu sefer dönen sonuçlar obje listesi olarak değil dictionary listesi olacak. Hazırsak başlayalım. Kaynak olarak django’nun kendi dökümanın kulanacağım. Sen sen ve...
+        </description>
+        <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/values-valueslist/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/values-valueslist/</guid>
+      </item>
+    
+      <item>
         <title>Django'da sorgu optimizastonu #1</title>
         <description>
           Defer ve only kullanımı. Django tips and trick #3 - 
