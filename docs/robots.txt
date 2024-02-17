@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cihanerman.github.io/sitemap.xml
