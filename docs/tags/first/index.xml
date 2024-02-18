@@ -10,15 +10,15 @@
       <link>https://cihanerman.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <language>tr-tr</language>
+    <lastBuildDate>Sat, 28 Apr 2018 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://cihanerman.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
+      <title>Başlangıç</title>
       <link>https://cihanerman.github.io/posts/baslangic/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Sat, 28 Apr 2018 11:30:03 +0000</pubDate>
       <guid>https://cihanerman.github.io/posts/baslangic/</guid>
-      <description>Desc Text.</description>
+      <description>&amp;#34;Ben aslında tornacıyım&amp;#34;</description>
     </item>
   </channel>
 </rss>

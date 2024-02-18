@@ -10,15 +10,99 @@
       <link>https://cihanerman.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <language>tr-tr</language>
+    <lastBuildDate>Sun, 12 Apr 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://cihanerman.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
+      <title>Django&#39;da sorgu optimizastonu #2</title>
+      <link>https://cihanerman.github.io/posts/values-valueslist/</link>
+      <pubDate>Sun, 12 Apr 2020 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/values-valueslist/</guid>
+      <description>Values ve values_list kullanımı. Django tips and trick #4</description>
+    </item>
+    <item>
+      <title>Django&#39;da sorgu optimizastonu #1</title>
+      <link>https://cihanerman.github.io/posts/defer-only/</link>
+      <pubDate>Sat, 11 Apr 2020 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/defer-only/</guid>
+      <description>Defer ve only kullanımı. Django tips and trick #3</description>
+    </item>
+    <item>
+      <title>Athos, Porthos ve Aramis</title>
+      <link>https://cihanerman.github.io/posts/map-filter-reduce/</link>
+      <pubDate>Sun, 16 Feb 2020 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/map-filter-reduce/</guid>
+      <description>Python&amp;#39;da map, filter, reduce. Django tips and trick #2</description>
+    </item>
+    <item>
+      <title>Büyük oyunu gör. Django&#39;da yaratıcılar ve yineleyiciler.</title>
+      <link>https://cihanerman.github.io/posts/django-genator-iterator/</link>
+      <pubDate>Sun, 26 Jan 2020 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/django-genator-iterator/</guid>
+      <description>Django tips and tricks, #1</description>
+    </item>
+    <item>
+      <title>R, Keras ve Gan Gan Gan</title>
+      <link>https://cihanerman.github.io/posts/r-keras-ve-gan-gan-gan/</link>
+      <pubDate>Sat, 21 Sep 2019 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/r-keras-ve-gan-gan-gan/</guid>
+      <description>R&amp;#39;da keras kullanarak gan modeli oluşturma</description>
+    </item>
+    <item>
+      <title>Bozkırdaki Kaplan</title>
+      <link>https://cihanerman.github.io/posts/bozk%C4%B1rdaki-kaplan-markdown/</link>
+      <pubDate>Wed, 11 Sep 2019 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/bozk%C4%B1rdaki-kaplan-markdown/</guid>
+      <description>Markdown</description>
+    </item>
+    <item>
+      <title>R ve Keras’ın Bachatası</title>
+      <link>https://cihanerman.github.io/posts/r-ve-keras%C4%B1n-bachatas%C4%B1/</link>
+      <pubDate>Fri, 30 Aug 2019 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/r-ve-keras%C4%B1n-bachatas%C4%B1/</guid>
+      <description>💃</description>
+    </item>
+    <item>
+      <title>Python’da Veri Manipülasyonuna R Gücü Katmak </title>
+      <link>https://cihanerman.github.io/posts/pythonda-veri-manipulasyonuna-r-g%C3%BCc%C3%BC-katmak/</link>
+      <pubDate>Wed, 14 Aug 2019 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/pythonda-veri-manipulasyonuna-r-g%C3%BCc%C3%BC-katmak/</guid>
+      <description>Python &#43; R = PythonR</description>
+    </item>
+    <item>
+      <title>Django UpdateView kullanımı</title>
+      <link>https://cihanerman.github.io/posts/django-updateview-kullan%C4%B1m%C4%B1/</link>
+      <pubDate>Sun, 13 May 2018 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/django-updateview-kullan%C4%B1m%C4%B1/</guid>
+      <description>UpdateView kullanımı</description>
+    </item>
+    <item>
+      <title>Django’da CreateView kullanımı</title>
+      <link>https://cihanerman.github.io/posts/django-createview-kullan%C4%B1m%C4%B1/</link>
+      <pubDate>Sun, 06 May 2018 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/django-createview-kullan%C4%B1m%C4%B1/</guid>
+      <description>CreateView kullanımı</description>
+    </item>
+    <item>
+      <title>Django FormView kullanımı</title>
+      <link>https://cihanerman.github.io/posts/django-formview-kullan%C4%B1m%C4%B1/</link>
+      <pubDate>Tue, 01 May 2018 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/django-formview-kullan%C4%B1m%C4%B1/</guid>
+      <description>FormView kullanımı </description>
+    </item>
+    <item>
+      <title>Django Listview kullanımı</title>
+      <link>https://cihanerman.github.io/posts/django-listview-kullan%C4%B1m%C4%B1/</link>
+      <pubDate>Sun, 29 Apr 2018 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/django-listview-kullan%C4%B1m%C4%B1/</guid>
+      <description>ListView Kullanımı</description>
+    </item>
+    <item>
+      <title>Başlangıç</title>
       <link>https://cihanerman.github.io/posts/baslangic/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Sat, 28 Apr 2018 11:30:03 +0000</pubDate>
       <guid>https://cihanerman.github.io/posts/baslangic/</guid>
-      <description>Desc Text.</description>
+      <description>&amp;#34;Ben aslında tornacıyım&amp;#34;</description>
     </item>
   </channel>
 </rss>

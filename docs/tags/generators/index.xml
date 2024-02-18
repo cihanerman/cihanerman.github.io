@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>generators on Cihan Erman</title>
+    <link>https://cihanerman.github.io/tags/generators/</link>
+    <description>Recent content in generators on Cihan Erman</description>
+    <image>
+      <title>Cihan Erman</title>
+      <url>https://cihanerman.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cihanerman.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Sun, 26 Jan 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://cihanerman.github.io/tags/generators/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Büyük oyunu gör. Django&#39;da yaratıcılar ve yineleyiciler.</title>
+      <link>https://cihanerman.github.io/posts/django-genator-iterator/</link>
+      <pubDate>Sun, 26 Jan 2020 11:30:03 +0000</pubDate>
+      <guid>https://cihanerman.github.io/posts/django-genator-iterator/</guid>
+      <description>Django tips and tricks, #1</description>
+    </item>
+  </channel>
+</rss>

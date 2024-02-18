@@ -1,0 +1,7 @@
+{{- define "main" }}
+<div class="not-found">404</div>
+  <div class="text-center">
+    {{ $image := resources.GetMatch "/images/404-southpark.jpg" }}
+    <img src="{{ $image.RelPermalink }}" alt="404" />
+  </div>
+{{- end }}{{/* end main */ -}}
