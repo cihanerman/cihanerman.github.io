@@ -102,8 +102,8 @@ params:
   analytics:
     google:
       SiteVerificationTag: "6D92JkXyHjKTZMYvDBsNaBp-c5gWEjdEGQ-2CtsMOw8"
-    yandex:
-      SiteVerificationTag: "d95ade015114c67b"
+    # yandex:
+    #   SiteVerificationTag: "d95ade015114c67b"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -154,3 +154,5 @@ markup:
 services:
   disqus:
     shortname: cihanerman
+  googleAnalytics:
+    ID: UA-147964244-1
